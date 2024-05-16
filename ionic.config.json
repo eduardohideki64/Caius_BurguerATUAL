@@ -1,0 +1,7 @@
+{
+  "name": "ifood_oliginal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
